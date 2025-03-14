@@ -70,7 +70,7 @@ html {
 /* Quotes */
 .quotes-container {
     padding: 30px;
-    background-image: url(../imgs/background-image.png);
+    background-image: url(/background-image.png);
     color: #fff;
 }
 
