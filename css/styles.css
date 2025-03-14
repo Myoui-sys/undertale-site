@@ -4,7 +4,7 @@ html {
     font-family: monospace;
     font-size: 15px;
     color: #fff;
-    background-image: url("/imgs/thumb-1920-798722.png");
+    background-image: url("../imgs/background-image.png");
 }
 
 .container {
@@ -70,7 +70,7 @@ html {
 /* Quotes */
 .quotes-container {
     padding: 30px;
-    background-image: url(/3_PROJETOHTML1/imgs/thumb-1920-798722.png);
+    background-image: url(../imgs/background-image.png);
     color: #fff;
 }
 
